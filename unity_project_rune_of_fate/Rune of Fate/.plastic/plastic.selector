@@ -1,4 +1,0 @@
-repository "Rune of Fate@tj_rune_of_fate@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
