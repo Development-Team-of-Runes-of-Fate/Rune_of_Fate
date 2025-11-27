@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity auto-generated files
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# Packed Assets
+*.apk
+*.aab
+*.unitypackage
+
+# Asset meta data should be ignored when assets are ignored
+!*.meta
+
+# Uncomment if you have your own Unity Package Manager (UPM) registry
+# Packages/manifest.json
+# Packages/packages-lock.json
+
+# Uncomment if you have your own Unity Package Manager (UPM) registry
+# Packages/manifest.json
+# Packages/packages-lock.json
+
+# Ignore the asset store tools plugin
+[Aa]sset[Ss]toreTools*
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
